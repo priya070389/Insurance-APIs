@@ -1,0 +1,15 @@
+Field Name	
+firstName	
+lastName	
+email	
+password	
+phoneNumber	
+dateOfBirth	
+address		
+city		
+state		
+zipCode	
+drivingLicenseNumber	
+licenseExpiryDate	
+userType	
+vehicleDetails
